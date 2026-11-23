@@ -1,1 +1,43 @@
-//
+{
+  "events": [
+    {
+      "name": "BIENVENIDO DE VUELTA",
+      "ends": "2026-11-30",
+      "alert": true,
+      "rewards": [
+        {
+          "type": "coin",
+          "amount": 100,
+          "mission": {
+            "kind": "damage",
+            "n": 800
+          }
+        },
+        {
+          "type": "coin",
+          "amount": 250,
+          "mission": {
+            "kind": "kills",
+            "n": 12
+          }
+        },
+        {
+          "type": "coin",
+          "amount": 500,
+          "mission": {
+            "kind": "matches",
+            "n": 12
+          }
+        },
+        {
+          "type": "avatar",
+          "id": 5,
+          "mission": {
+            "kind": "damage",
+            "n": 10
+          }
+        }
+      ]
+    }
+  ]
+}
