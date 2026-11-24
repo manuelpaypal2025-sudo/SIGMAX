@@ -1,1 +1,18 @@
-//
+{
+  "mails": [
+    {
+      "id": "mmwunmk06",
+      "title": "RECOMPENSAS POR VERIFICACION",
+      "message": "Bienvenido a Sigmax Private Server",
+      "days": 7,
+      "rewards": [
+        {
+          "type": "all_avatars"
+        },
+        {
+          "type": "all_banners"
+        }
+      ]
+    }
+  ]
+}
